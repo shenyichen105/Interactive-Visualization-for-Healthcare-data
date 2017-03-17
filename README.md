@@ -8,3 +8,8 @@ Analytic questions answered:
 5. What are the states which similar to a chosen state in terms of some health variables?
 6. To which part of the US a state is similar to in terms of some health variables?
 7. Are the selected health factors and outcomes correlated?
+
+Credited to following collaborators:
+Terrence Law
+Amy Chong
+Matt Hong
